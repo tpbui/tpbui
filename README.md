@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Tra! 👋
 
-<!--
-**tpbui/tpbui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in exploring the intersection of Machine Learning and Computer Systems and how to make computational intensive applications run faster and more efficient. 
 
-Here are some ideas to get you started:
+🎯 I'm actively seeking **Software Engineering** positions for new grads
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+💡What I enjoy
+  - Crafting innovative solutions to tough problems
+  - Collaborating in open-source projects to make tech more accessible
+  - Diving deep into emerging technologies and sharing what I learn
+
+🌱 Currently learning
+ - Programming languages: Javascript
+ - Delta Lake and large-scale data pipelines
+
+## 🔎 Contact
+- Reach me on: [LinkedIn](https://www.linkedin.com/in/trabui-cmu/)
+- Or email me at: tpbui [at] andrew [dot] cmu [dot] edu
